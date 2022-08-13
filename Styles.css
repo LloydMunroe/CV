@@ -1,0 +1,20 @@
+
+body {
+  background-color: #E8FFFF;
+}
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  Border-color: #607EAA;
+  Border-width:5px;
+  width:90%;
+  }
+  h3 {
+    color:#009DAE;
+    }
+  h1 {
+      color:#009DAE;
+      }
+/*
+This is the way to do comments in Css
+we can use class to target a SPECIFIC ITEM. To tap into a class us a fullstop them the name of the class. 
